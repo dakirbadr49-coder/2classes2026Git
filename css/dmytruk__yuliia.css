@@ -32,5 +32,13 @@ color: white;
 }
 .plant-img{
     width: 50px;
+    
+}
+footer{
+    margin-top: 350px;
+    background-color: #231f20;
+    padding: 40px;
+    color: white;
+    text-align: center;
 }
 
